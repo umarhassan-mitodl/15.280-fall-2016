@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "e22109b8-5b57-3371-f585-110f3b53dfd5",
+  "instructors": {
+    "content": [
+      "cc089706-f9e4-344e-b797-712067c6b377"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "701c4ab5-9ec6-56e6-97a3-09ae50a1cbee",
+    "website": "15-280-communication-for-managers-fall-2016"
+  },
+  "course_title": "Communication for Managers",
+  "course_description": "In this course, students develop and polish communication strategies and methods through discussion, examples, and practice with an emphasizes on writing and speaking skills necessary for effective leaders. The course includes several oral and written assignments which are integrated with other subjects, and with career development activities, when possible.\n\nThis course is part of the MBA core and is restricted to first-year Sloan graduate students. Find out more about {{% resource_link \"d083a4c9-fbed-44bf-b95b-12577c6ec333\" \"the Sloan MBA core on OCW\" %}}.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.280",
+  "course_image_thumbnail": {
+    "content": "4848fb05-8d7b-4a59-3820-e875c7b34d66",
+    "website": "15-280-communication-for-managers-fall-2016"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "a9fede55-b36f-4ca8-9d71-ecb85eb87875",
+  "site_short_id": "15.280-fall-2016",
+  "site_url_path": "courses/15-280-communication-for-managers-fall-2016",
+  "title": "Course Metadata"
+}
